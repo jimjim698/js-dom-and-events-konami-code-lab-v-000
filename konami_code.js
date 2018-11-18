@@ -13,6 +13,7 @@ function init() {
     
     if( key === code[index]){
       index++;
+      alert("gettin close")
       if(index === code.length){
         alert("Congrats!")
         index = 0
