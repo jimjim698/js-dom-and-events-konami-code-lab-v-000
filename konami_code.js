@@ -22,12 +22,7 @@ function init() {
     }
     
   }
-  
- 
-
-  
- 
-
-
 
 }
+
+init()
